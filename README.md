@@ -21,7 +21,7 @@ In this project, I will be looking at power demand time series data collected fr
 * SARIMA model had an RMSPE of 12% and an R² of 0.82
 
 
-#<img align="center" src="Images/comparing_floors_kWh.png"> 
+<img align="center" src="Images/comparing_floors_kWh.png"> 
 
 ## Code and Resources Used 
 - **Python Version:** 3.8  
